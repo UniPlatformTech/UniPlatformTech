@@ -11,14 +11,36 @@ I architect and build complete, production-ready systems across multiple domains
 - **Real-time Applications:** Multiplayer games using WebSockets & WASM GPU processing
 - **E-commerce Systems:** High-traffic store platforms with PostgreSQL optimization
 - **IoT Solutions:** Smart home systems with device firmware integration
-- **Enterprise Platforms:** Company service systems with full-stack implementation
 
 ## Tech Stack
-  languages: ["Rust", "Python", "Go", "C++", "TypeScript", "Java", "Kotlin", "C#"],
-  frontend: ["React", "Next.js", "Vue", "Nuxt", "Angular", "Tailwind CSS"],
-  mobile: ["Flutter", "React Native", "Xamarin", "Ionic"],
-  backend: ["Node.js", "Python/Django", "Rust", ".NET", "Laravel"],
-  databases: ["PostgreSQL", "MongoDB", "MySQL"],
-  specialized: ["WebAssembly", "CUDA", "WebSockets", "WebGPU", "Firmware APIs"],
-  tools: ["Docker", "CI/CD", "Git", "AWS/GCP/Azure"]
+**Languages:** Rust, Python, Go, C++, C#, TypeScript, Java, Kotlin, PHP  
+**Frontend:** React, Next.js, Vue, Nuxt, Angular, Tailwind CSS  
+**Mobile:** Flutter, React Native, Xamarin, Ionic  
+**Backend:** Node.js, Python/Django, Rust, .NET, Laravel, CI  
+**Databases:** PostgreSQL, MongoDB, MySQL  
+**Specialized:** WebAssembly, CUDA, WebSockets, WebGPU, Firmware APIs
 
+## Featured Projects
+
+### **AI Chatbot Platform**
+*Python/Django · React · MongoDB*  
+Enterprise chatbot system with multi-LLM integration and conversation analytics. Features real-time processing and CRM integration.
+
+### **Blockchain Mining Pool System**
+*Rust · Go · PostgreSQL · WebSocket*  
+High-performance cryptocurrency mining pool with automated node management and secure payment distribution system.
+
+### **Smart Home Management System**
+*Flutter · Vue.js · Rust · MQTT*  
+Cross-platform IoT control system with device firmware integration and real-time monitoring.
+
+### **Real-Time Game Engine**
+*TypeScript · WebAssembly · WebGPU · Socket.io*  
+Browser-based game engine with WASM-accelerated graphics processing.
+
+### **E-commerce Platform**
+*Next.js · Node.js · PostgreSQL*  
+Scalable store system with advanced inventory management and order processing.
+
+
+*"Building systems that scale—from silicon to screen."*
