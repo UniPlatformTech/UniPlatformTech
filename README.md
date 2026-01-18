@@ -14,8 +14,6 @@ I architect and build complete, production-ready systems across multiple domains
 - **Enterprise Platforms:** Company service systems with full-stack implementation
 
 ## Tech Stack
-```typescript
-const techStack = {
   languages: ["Rust", "Python", "Go", "C++", "TypeScript", "Java", "Kotlin", "C#"],
   frontend: ["React", "Next.js", "Vue", "Nuxt", "Angular", "Tailwind CSS"],
   mobile: ["Flutter", "React Native", "Xamarin", "Ionic"],
@@ -23,4 +21,4 @@ const techStack = {
   databases: ["PostgreSQL", "MongoDB", "MySQL"],
   specialized: ["WebAssembly", "CUDA", "WebSockets", "WebGPU", "Firmware APIs"],
   tools: ["Docker", "CI/CD", "Git", "AWS/GCP/Azure"]
-};
+
