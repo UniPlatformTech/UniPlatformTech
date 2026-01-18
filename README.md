@@ -20,27 +20,4 @@ I architect and build complete, production-ready systems across multiple domains
 **Databases:** PostgreSQL, MongoDB, MySQL  
 **Specialized:** WebAssembly, CUDA, WebSockets, WebGPU, Firmware APIs
 
-## Featured Projects
-
-### **AI Chatbot Platform**
-*Python/Django · React · MongoDB*  
-Enterprise chatbot system with multi-LLM integration and conversation analytics. Features real-time processing and CRM integration.
-
-### **Blockchain Mining Pool System**
-*Rust · Go · PostgreSQL · WebSocket*  
-High-performance cryptocurrency mining pool with automated node management and secure payment distribution system.
-
-### **Smart Home Management System**
-*Flutter · Vue.js · Rust · MQTT*  
-Cross-platform IoT control system with device firmware integration and real-time monitoring.
-
-### **Real-Time Game Engine**
-*TypeScript · WebAssembly · WebGPU · Socket.io*  
-Browser-based game engine with WASM-accelerated graphics processing.
-
-### **E-commerce Platform**
-*Next.js · Node.js · PostgreSQL*  
-Scalable store system with advanced inventory management and order processing.
-
-
 *"Building systems that scale—from silicon to screen."*
