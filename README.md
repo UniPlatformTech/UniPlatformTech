@@ -1,17 +1,26 @@
-# Blockchain Security & Mining pool manager & Rust expert
+# Hi, I'm Deante Range 👨‍💻
+**Senior Full-Stack Engineer | 7+ Years Building Scalable Systems**
 
-Security-first blockchain researcher and builder with 12+ years of experience across:
+## 🚀 About Me
+I architect and build complete, production-ready systems across multiple domains. With over 7 years of experience, I specialize in creating robust solutions that bridge web, mobile, and complex backend systems—from AI chatbots and blockchain infrastructure to real-time graphics and IoT device integration.
 
-## Core Focus Areas
-- **Cryptography & Protocol Security** – ZK proofs, TEEs, attestation systems
-- **Protocol Engineering** – PoW/PoS/PoH, token economics, full-stack dApps
-- **Rust Development** – Stratum V2 mining pools, low-latency job distribution, Noise-secured channels
-- **Systems Architecture** – Off-chain compute, Move smart contracts, production infrastructure
+## 💼 Core Expertise
+**Systems I Build:**
+- **AI/ML Integration:** Chatbot systems with Python backend & LLM integration
+- **Blockchain Infrastructure:** Mining pool services with CPU/GPU node management & payment systems
+- **Real-time Applications:** Multiplayer games using WebSockets & WASM GPU processing
+- **E-commerce Systems:** High-traffic store platforms with PostgreSQL optimization
+- **IoT Solutions:** Smart home systems with device firmware integration
+- **Enterprise Platforms:** Company service systems with full-stack implementation
 
-## Recent Work
-- Built Stratum V2 mining infrastructure for CPU/GPU miners
-- Architected TEE-backed off-chain compute with ZK proofs
-- Designed Move contracts for on-chain attestation verification
-- Delivered full-stack dApps and games with observability
-
-Always building with security, performance, and correctness in mind.
+## 🛠️ Tech Stack
+```typescript
+const techStack = {
+  languages: ["Rust", "Python", "Go", "C++", "TypeScript", "Java", "Kotlin", "C#"],
+  frontend: ["React", "Next.js", "Vue", "Nuxt", "Angular", "Tailwind CSS"],
+  mobile: ["Flutter", "React Native", "Xamarin", "Ionic"],
+  backend: ["Node.js", "Python/Django", "Rust", ".NET", "Laravel"],
+  databases: ["PostgreSQL", "MongoDB", "MySQL"],
+  specialized: ["WebAssembly", "CUDA", "WebSockets", "WebGPU", "Firmware APIs"],
+  tools: ["Docker", "CI/CD", "Git", "AWS/GCP/Azure"]
+};
