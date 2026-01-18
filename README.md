@@ -1,10 +1,10 @@
-# Hi, I'm Deante Range 👨‍💻
+# Hi, I'm Deante Range
 **Senior Full-Stack Engineer | 7+ Years Building Scalable Systems**
 
-## 🚀 About Me
+## About Me
 I architect and build complete, production-ready systems across multiple domains. With over 7 years of experience, I specialize in creating robust solutions that bridge web, mobile, and complex backend systems—from AI chatbots and blockchain infrastructure to real-time graphics and IoT device integration.
 
-## 💼 Core Expertise
+## Core Expertise
 **Systems I Build:**
 - **AI/ML Integration:** Chatbot systems with Python backend & LLM integration
 - **Blockchain Infrastructure:** Mining pool services with CPU/GPU node management & payment systems
@@ -13,7 +13,7 @@ I architect and build complete, production-ready systems across multiple domains
 - **IoT Solutions:** Smart home systems with device firmware integration
 - **Enterprise Platforms:** Company service systems with full-stack implementation
 
-## 🛠️ Tech Stack
+## Tech Stack
 ```typescript
 const techStack = {
   languages: ["Rust", "Python", "Go", "C++", "TypeScript", "Java", "Kotlin", "C#"],
